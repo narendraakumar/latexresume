@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.7.19)  15 JAN 2020 20:31
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.7.19)  15 JAN 2020 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -697,16 +697,16 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
 .tex)
 Requested font "FontAwesome" at 10.0pt
- -> ^^0>^^dTV
+ -> 0h^^ès^^ÄU
 Requested font "FontAwesome/OT" at 10.0pt
  -> 
 \g__fontspec_family_FontAwesome_int=\count277
 Requested font "FontAwesome/BI/OT" at 10.0pt
  -> 
 Requested font "FontAwesome/B/OT" at 10.0pt
- -> ^^à^^*^^dTV
+ -> @^^T^^és^^ÄU
 Requested font "FontAwesome/I/OT" at 10.0pt
- ->  ^^)^^dTV
+ -> ^^ ^^R^^és^^ÄU
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluate
 x.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
@@ -1531,34 +1531,34 @@ lar.ttf
 Requested font "[fonts/segoeuib.ttf]/OT:script=latn;language=DFLT;" at 17.28pt
  -> ./fonts/segoeuib.ttf
 
-Package hyperref Warning: Suppressing empty link on input line 94.
+Package hyperref Warning: Suppressing empty link on input line 99.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--138
-
- []
-
-
-Package hyperref Warning: Suppressing empty link on input line 162.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--164
+Underfull \hbox (badness 10000) in paragraph at lines 76--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--221
+Package hyperref Warning: Suppressing empty link on input line 167.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--226
 
  []
 
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
  (./template.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 223.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 223.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 228.
  ) 
 Here is how much of TeX's memory you used:
  34432 strings out of 493007
