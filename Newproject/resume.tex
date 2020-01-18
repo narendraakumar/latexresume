@@ -1,0 +1,83 @@
+\documentclass{article}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\titleformat{\section}[frame]
+{\huge\bfseries}
+{}
+{0em}
+{\filcenter}[\titlerule]
+	
+\titleformat{\subsection}
+{\bfseries\large}
+{\hspace{0.1in}\vspace{1in}$\bullet$}
+{1em}
+{}
+
+\titleformat{\subsubsection}[runin]
+{\bfseries}
+{\hspace{0.4in}$\bullet$}
+{1 em}
+{}[--]
+\renewcommand{\maketitle}{
+\begin{center}
+{\huge\bfseries
+	\theauthor}{}
+	\vspace{0.25em}
+ \\ nareaero@gmail.com
+\end{center}
+}
+
+
+
+\titlespacing{\subsubsection}{1em}{1em}{1em}
+\titlespacing{\subsection}{1em}{1em}{1em}
+
+\definecolor{mygray}{RGB}{220,230,220}
+
+
+\begin{document}
+	%\lipsum[1-12]
+	\pagecolor{mygray}
+	%\lipsum[22-30]
+	
+	\title{R\'esum\'e}
+	\author{Narendra Kumar}
+	\maketitle
+	\section{Technical skills}
+		\subsection{Work Flow}
+		Vim
+		\subsection{Languages}
+		\subsubsection{Programming}
+		Python, C++, C, Shell
+		\subsubsection{Markup}
+		{\LaTeX}
+	\section{Research}
+	\subsubsection{Master Project}
+	\begin{itemize}
+		\item[\textbf Master]{description} Detection of Delamination in the composite beam using ultrasonic
+		wave propagation technique. Modeling of the beam is done using
+		FEM and code written in MATLAB.
+		\item[\textbf Master] descriptionDetection of crack in the beam using ultrasonic wave propagation
+		method. Modeling of the beam is done using FEM and code were
+		written in MATLAB.
+	\end{itemize}
+
+	\section{Education}
+	\subsubsection{BEng., Aeronautical Engineering}
+	Aeronautical Society Of India
+	2010 - 2015 | Delhi
+	\subsubsection{MTech., Aerospace Engineering}
+	Specialization: Aerospace Structure
+	Indian Institute of Technology
+	2015 - 2017 | Kharagpur, India
+	\section{Job Experience}
+	\subsection{IIT Kharagpur}
+	Teaching Assistant During M-Tech program.
+	
+	\section{Service}
+
+\end{document}
